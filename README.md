@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shubhamshende7
 - 👀 I’m interested in OT Cloud Security 
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on DevOsp pipeline
+- 💞️ I’m looking to collaborate on DevOps pipeline
 - 📫 How to reach me ...
 
 <!---
